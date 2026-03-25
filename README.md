@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Samvel 👋
 
-<!--
-**Samvel-Dev/Samvel-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA Engineer focused on Manual Testing and REST API Testing with Postman.
+I build structured test documentation, execute API validation scenarios, and create bug reports based on real- world testing workflows.
 
-Here are some ideas to get you started:
+## QA Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manual Testing
+- API Testing (Postman)
+- Test Case Design
+- Bug Reporting & Defect Tracking
+- REST API Validation
+- Test Documentation
+- Git & GitHub
+
+## Portfolio Projects
+
+QA Test Documentation Project
+Includes:
+- Test Plan
+- Test Strategy
+- Test Cases
+- Bug Reports
+
+Postman API Testing Project
+Includes:
+- API request validation
+- Status code verification
+- Response structure checks
+- Example REST endpoint testing collection
+
+## Currently Improving
+
+- JavaScript for QA Automation
+- Postman test scripting
+- API automation fundamentals
+
+## Contact
+
+LinkedIn: linkedin.com/in/samvelqa
