@@ -31,9 +31,9 @@ Includes:
 
 ## Currently Improving
 
-- JavaScript for QA Automation
-- Postman test scripting
-- API automation fundamentals
+- JavaScript for QA automation
+- Postman test scripting (pm.test, response validation)
+- REST API automation fundamentals
 
 ## Contact
 
