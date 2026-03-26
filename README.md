@@ -1,7 +1,7 @@
 # Hi, I'm Samvel 👋
 
-Junior QA Engineer focused on Manual Testing and REST API Testing with Postman.
-I build structured test documentation, execute API validation scenarios, and create bug reports based on real- world testing workflows.
+Junior QA Engineer specializing in Manual Testing and API Testing with Postman. 
+Actively building automation testing skills.
 
 ## QA Skills
 
@@ -28,6 +28,12 @@ Includes:
 - Status code verification
 - Response structure checks
 - Example REST endpoint testing collection
+
+Tools
+- Postman
+- Git & GitHub
+- Jira
+- Chrome DevTools
 
 ## Currently Improving
 
